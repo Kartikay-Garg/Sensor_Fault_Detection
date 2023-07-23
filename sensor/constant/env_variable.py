@@ -1,0 +1,1 @@
+MONGODB_URL_KEY = "mongodb+srv://kartikay_garg:kartikay123@cluster0.bn7gtkm.mongodb.net/"
